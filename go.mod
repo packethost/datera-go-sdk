@@ -1,4 +1,4 @@
-module github.com/Datera/go-sdk
+module github.com/packethost/datera-go-sdk
 
 require (
 	github.com/Datera/go-udc v1.1.0
